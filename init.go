@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	logxi "github.com/mgutz/logxi/v1"
+	logxi "github.com/aa-ar/logxi"
 )
 
 var logger logxi.Logger

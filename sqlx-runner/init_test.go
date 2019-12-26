@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	logxi "github.com/mgutz/logxi/v1"
+	logxi "github.com/aa-ar/logxi"
 
 	"gopkg.in/mgutz/dat.v1"
 	"gopkg.in/mgutz/dat.v1/kvs"
